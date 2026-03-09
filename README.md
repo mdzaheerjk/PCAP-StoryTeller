@@ -1,3 +1,6 @@
+# PCAP StoryTeller
+PCAP StoryTeller simplifies network forensics by converting complex packet data into human-readable stories. The application automatically links network events, provides heuristic risk scoring, and presents data through an intuitive visual dashboard, making it accessible for cybersecurity students and newcomers.
+
 <p align="center">
   <img src="https://backend.krishnaik.in/media/project_banners/unnamed_2_h4x3wI3.jpg"
        alt="Project Banner"
