@@ -1,1 +1,15 @@
-# PCAP-StoryTeller
+<p align="center">
+  <img src="https://backend.krishnaik.in/media/project_banners/unnamed_2_h4x3wI3.jpg"
+       alt="Project Banner"
+       width="1000"/>
+</p>
+
+---
+
+<h2 align="center">🏗️ System Architecture</h2>
+
+<p align="center">
+  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/diagram-export-2-21-2026-12_11_36-PM.png"
+       alt="System Architecture Diagram"
+       width="900"/>
+</p>
